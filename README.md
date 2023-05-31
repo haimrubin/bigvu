@@ -5,7 +5,7 @@
 
 ## Installation
 * Clone the repository:
-    git clone https://github.com/haimrubin/Projects/edit/main/BIGVU/bigvu
+    git clone https://github.com/haimrubin/bigvu.git
 * Change to the project directory:
     cd bigvu
 * Build the Docker image:
